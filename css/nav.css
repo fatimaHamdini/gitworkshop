@@ -1,0 +1,21 @@
+.navigation{
+    height: 80px;
+    background-color: white;
+    display: flex;
+}
+#nav-logo{
+    height: 80px;
+}
+.nav-items {
+    list-style: none;
+    display: flex;
+}
+.nav-item {
+    padding: 28px;
+}
+.nav-item :hover{
+    background-color: #808080
+}
+.nav-link {
+    
+}
